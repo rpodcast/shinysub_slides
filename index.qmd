@@ -1,25 +1,48 @@
 ---
 title: "Shiny for Submissions"
-format: revealjs
+format: 
+  revealjs:
+    footer: "Footer text"
 ---
 
 ## Quarto
 
 Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
 
-## Bullets
+##
 
-When you click the **Render** button a document will be generated that includes:
+:::: {.columns}
 
--   Content authored with markdown
--   Output from executable code
+::: {.column width="30%"}
+![](images/teal_demo.gif)
+:::
 
-## Code
+::: {.column width="40%"}
+Right column
+:::
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
+::::
 
 
+## A New Frontier {.smaller}
+
+Shiny is transforming clinical workflows within life science organizations
+
++ Accelerating internal decisions
+* Efficient review of clinical data
+* Intuitive interfaces to complex statistical methods and pipelines
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](images/donald_duck.png)
+:::
+
+::: {.column width="50%"}
+![](images/clutter.jpg)
+:::
+
+::::
+
+
+**How can Shiny bring similar benefits to a clinical submission package?**
