@@ -2,22 +2,127 @@
   {
     "objectID": "index.html#quarto",
     "href": "index.html#quarto",
-    "title": "Shiny for Submissions",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
     "section": "Quarto",
     "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
   },
   {
     "objectID": "index.html#section",
     "href": "index.html#section",
-    "title": "Shiny for Submissions",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
     "section": "",
-    "text": "Right column"
+    "text": "Joe Cheng - Using Shiny Responsibly in Pharma"
   },
   {
     "objectID": "index.html#a-new-frontier",
     "href": "index.html#a-new-frontier",
-    "title": "Shiny for Submissions",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
     "section": "A New Frontier",
-    "text": "A New Frontier\nShiny is transforming clinical workflows within life science organizations\n\nAccelerating internal decisions\nEfficient review of clinical data\nIntuitive interfaces to complex statistical methods and pipelines\n\n\n\n\n\n\n\n\nHow can Shiny bring similar benefits to a clinical submission package?\n\n\nFooter text"
+    "text": "A New Frontier\nShiny is transforming clinical workflows within life science organizations\n\nAccelerating internal decisions\nEfficient review of clinical data\nIntuitive interfaces to complex statistical methods and pipelines\n\n\n\n\n\n\n\n\nHow can Shiny bring similar benefits to a clinical submission package?"
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "",
+    "text": "Paul Schuette - Using R in a Regulatory Environment"
+  },
+  {
+    "objectID": "index.html#planting-the-seeds-rpharma",
+    "href": "index.html#planting-the-seeds-rpharma",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "Planting the Seeds: R/Pharma",
+    "text": "Planting the Seeds: R/Pharma\n\nrinpharma.com"
+  },
+  {
+    "objectID": "index.html#planting-the-seeds-rpharma-background-imageimagesrpharma_audience.jpg-background-size-contain",
+    "href": "index.html#planting-the-seeds-rpharma-background-imageimagesrpharma_audience.jpg-background-size-contain",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "Planting the Seeds: R/Pharma {background-image=“images/rpharma_audience.jpg” background-size: “contain”}",
+    "text": "Planting the Seeds: R/Pharma {background-image=“images/rpharma_audience.jpg” background-size: “contain”}"
+  },
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "",
+    "text": "Shiny is transforming clinical workflows within life science organizations\n\nAccelerating internal decisions\nEfficient review of clinical data\nIntuitive interfaces to complex statistical methods and pipelines\n\n\n\n\n\n\n\n\nHow can Shiny bring similar benefits to a clinical submission package?"
+  },
+  {
+    "objectID": "index.html#teal",
+    "href": "index.html#teal",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "Teal",
+    "text": "Teal\n\n\n\n\n\n\n“Challenge study results delivery: from paper to interactive” Webinar\n“Gaining efficiency in the study results delivery internally & externally”\n“Challenging the way analyses are delivered”\n\n\n\n\ninsightsengineering.github.io/teal"
+  },
+  {
+    "objectID": "index.html#fda-uses-shiny",
+    "href": "index.html#fda-uses-shiny",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "FDA Uses Shiny",
+    "text": "FDA Uses Shiny\n\n\n\n\n\n\nsendigR - Cross-Study Analysis of SEND Datasets\nFDA MCDA Shiny App analysis can help inform decision making\nR Shiny Based Mobile Tools To Aid Regulatory Decisions And Program Evaluation\n“The application provides a visual output to easily access and comprehend the data”"
+  },
+  {
+    "objectID": "index.html#r-submissions-working-group",
+    "href": "index.html#r-submissions-working-group",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "R Submissions Working Group",
+    "text": "R Submissions Working Group\n\n\n\n\n\n\nCross-industry working group with members from life sciences organizations and regulatory agencies\nEvaluate clinical submission packages leveraging R for analysis programs and results\nIdentify potential gaps and solutions using targeted pilots that mimic a clinical submission process\nOpen-source: All materials available on GitHub!\n\n\n\n\nrconsortium.github.io/submissions-wg"
+  },
+  {
+    "objectID": "index.html#something",
+    "href": "index.html#something",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "Something",
+    "text": "Something"
+  },
+  {
+    "objectID": "index.html#foundation---pilot-1-submission",
+    "href": "index.html#foundation---pilot-1-submission",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "Foundation - Pilot 1 Submission",
+    "text": "Foundation - Pilot 1 Submission\n\n\n\n\n\nNovember 2021 - Successful R-based Test Package Submitted to FDA\nAdhered to Electronic Common Technical Document (eCTD) specifications\n\nAnalysis Data Reviewer Guide\nR Package converted to text file using {pkglite}\nADaM datasets\nTLF output\n\n\n\n\n\ngithub.com/RConsortium/submissions-pilot1-to-fda"
+  },
+  {
+    "objectID": "index.html#another-slide",
+    "href": "index.html#another-slide",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "Another Slide",
+    "text": "Another Slide"
+  },
+  {
+    "objectID": "index.html#technical-overview",
+    "href": "index.html#technical-overview",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "Technical Overview",
+    "text": "Technical Overview\n\n\n\n\n\n\nApplication components created with Shiny Modules\nAssembled as an R package using {golem}\nPackage dependencies managed by {renv} ensuring reviewers can replicate R environment used to build application\nVersion control and collaborative development with Git and GitHub\nADRG specifying precise instructions to execute application on a local machine with R available\n\n\n\n\ngithub.com/RConsortium/submissions-pilot2"
+  },
+  {
+    "objectID": "index.html#the-extra-virtual-mile",
+    "href": "index.html#the-extra-virtual-mile",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "The Extra (Virtual) Mile",
+    "text": "The Extra (Virtual) Mile\n\ngithub.com/quickemu-project/quickemu"
+  },
+  {
+    "objectID": "index.html#collaborative-review",
+    "href": "index.html#collaborative-review",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "Collaborative Review",
+    "text": "Collaborative Review\n\nRegular cadence to elicit feedback from FDA reviewers\nDevelopment version deployed on external hosting to streamline review"
+  },
+  {
+    "objectID": "index.html#with-great-power",
+    "href": "index.html#with-great-power",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "With Great Power…",
+    "text": "With Great Power…\n\n\n\n\n\n\nDynamically updates p-values based on filtered observation\nPotential for confusion and misinterpretation\nCompromise: Allow filtering within visualization module only"
+  },
+  {
+    "objectID": "index.html#next-slide",
+    "href": "index.html#next-slide",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "Next Slide",
+    "text": "Next Slide"
   }
 ]
