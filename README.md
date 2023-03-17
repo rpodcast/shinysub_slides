@@ -1,6 +1,6 @@
 ## About
 
-This repository contains the slides and references from the [Shiny Conference](https://shinyconf.appsilon.com/) presentation presented by Eric Nantz on March 17, 2023. The slides are deployed at [https://rpodcast.github.io/shinysub_slides](https://rpodcast.github.io/shinysub_slides).
+This repository contains the slides and references from the [Shiny Conference](https://shinyconf.appsilon.com/) presentation **The Journey to a Successful Shiny Application Submission to FDA** presented by Eric Nantz on March 17, 2023. The slides are deployed at [https://rpodcast.github.io/shinysub_slides](https://rpodcast.github.io/shinysub_slides).
 
 Assorted References
 
