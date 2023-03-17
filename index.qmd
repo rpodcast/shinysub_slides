@@ -9,7 +9,6 @@ format:
       - title-slide.html
     center-title-slide: false
     theme: [simple, theme.scss]
-    preview-links: auto
     title-slide-attributes: 
       data-background-image: images/planets.jpg
       data-background-size: cover
