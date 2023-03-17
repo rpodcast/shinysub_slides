@@ -13,7 +13,7 @@ format:
     title-slide-attributes: 
       data-background-image: images/planets.jpg
       data-background-size: cover
-      data-background-opacity: "0.7"
+      data-background-opacity: "0.75"
     confetti:
       particleCount: 300
       angle: 90
@@ -40,6 +40,15 @@ revealjs-plugins:
 ::: footer
 [Paul Schuette - Using R in a Regulatory Environment](https://rinpharma.com/publication/rinpharma_7/)
 :::
+
+##
+
+![](images/pharmaverse.png){.absolute top=10 left=70}
+
+::: footer
+[pharmaverse.org](https://pharmaverse.org){preview-link="true"}
+:::
+
 
 ## Teal {.centerheading}
 
@@ -88,7 +97,7 @@ revealjs-plugins:
 
 ## {.smaller}
 
-### Shiny is transforming clinical workflows within life science organizations
+### Shiny is Transforming Clinical Workflows
 
 + Accelerating internal decisions
 * Efficient review of clinical data
@@ -277,9 +286,11 @@ url <- qr_code("https://rpodcast.github.io/shinysub_slides")
 generate_svg(url, filename = "images/qr.svg")
 ```
 
-![](images/qr.svg){.absolute bottom=10 right=5 size="50%"}
+![](images/qr.svg){.absolute bottom=10 right=5 width="20%"}
 
 ::: {style="text-align: center;"}
+![](images/people/pic_with_r_logo_github.jpg){width="20%"}
+
 [`r fontawesome::fa("github")` \@rpodcast](https://github.com/rpodcast)\
 [`r fontawesome::fa("mastodon")` podcastindex.social/\@rpodcast](https://podcastindex.org/@rpodcast)\
 [`r fontawesome::fa("twitter")` \@theRcast](https://twitter.com/theRcast)\

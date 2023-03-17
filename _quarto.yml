@@ -1,3 +1,10 @@
 project:
   type: website
   output-dir: docs
+  
+website: 
+  site-url: "https://rpodcast.github.io/shinysub_slides/"
+  twitter-card:
+    image: "images/preview.png"
+    card-style: summary_large_image
+    description: "The complete story on how a pilot Shiny application was successfully submitted to the FDA. "
