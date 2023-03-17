@@ -7,17 +7,21 @@ format:
   revealjs:
     template-partials: 
       - title-slide.html
+    slide-number: c/t
     center-title-slide: false
     theme: [simple, theme.scss]
     title-slide-attributes: 
       data-background-image: images/planets.jpg
       data-background-size: cover
       data-background-opacity: "0.7"
+    confetti:
+      particleCount: 300
+      angle: 90
+      spread: 180
+      scalar: 1.4
+revealjs-plugins:
+  - confetti
 ---
-
-## Quarto
-
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
 
 ## Planting the Seeds: [R/Pharma](https://rinpharma.com) {background-image="images/rpharma_audience.jpg" background-size="cover" background-color="white" background-opacity="0.6"}
 
@@ -174,7 +178,7 @@ Quarto enables you to weave together content and executable code into a finished
 * Assembled as an R package using [`{golem}`](https://thinkr-open.github.io/golem/)
 * Package dependencies managed by [`{renv}`](https://rstudio.github.io/renv/index.html) ensuring reviewers can replicate R environment used to build application
 * Version control and collaborative development with Git and GitHub
-* ADRG specifying precise instructions to execute application on a local machine with R available
+* ADRG specifying precise instructions to execute application on a local machine with R available - created with [Quarto](https://quarto.org)!
      
 :::
 
@@ -218,6 +222,75 @@ Quarto enables you to weave together content and executable code into a finished
 
 ::::
 
-## {background-iframe="https://www.r-consortium.org/blog/2022/12/07/update-successful-r-based-package-submission-with-shiny-component-to-fda"}
+## 
 
-## Next Slide
+![](images/pilot2_success_post.png){.absolute top=10 left=70}
+
+::: footer
+[R-Consortium Blog Post](https://www.r-consortium.org/blog/2022/12/07/update-successful-r-based-package-submission-with-shiny-component-to-fda){preview-link="true"}
+:::
+
+
+## The Next Wave of Innovation
+
+Upcoming Pilots for R Submissions Working Group
+
+* Using R programming to create ADaM data sets
+* Leveraging state-of-the-art container technology for Shiny application distribution
+* To learn more and get involved, visit [rconsortium.github.io/submissions-wg](https://rconsortium.github.io/submissions-wg/)!
+
+## Acknowledgements {.smaller}
+
+![](images/people/people_slide.png){.absolute top=100 left=300 width="80%"}
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+* Gregory Chen
+* Hye Soo Chen
+* Robert Devine
+* Ning Leng
+* Tadeusz Lewandowski
+* Edgar Manukyan
+* Eli Miller
+* Joseph Rickert
+* Paul Schuette
+* Heng Wang
+* Yilong Zhang
+
+:::
+
+::: {.column width="70%}
+
+:::
+
+::::
+
+
+## Thank You! {.centerheading .smaller}
+
+```{r}
+#| include: false
+library(qrcode)
+url <- qr_code("https://rpodcast.github.io/shinysub_slides")
+generate_svg(url, filename = "images/qr.svg")
+```
+
+![](images/qr.svg){.absolute bottom=10 right=5 size="50%"}
+
+::: {style="text-align: center;"}
+[`r fontawesome::fa("github")` \@rpodcast](https://github.com/rpodcast)\
+[`r fontawesome::fa("mastodon")` podcastindex.social/\@rpodcast](https://podcastindex.org/@rpodcast)\
+[`r fontawesome::fa("twitter")` \@theRcast](https://twitter.com/theRcast)\
+[`r fontawesome::fa("microphone")` R-Podcast](https://r-podcast.org)\
+[`r fontawesome::fa("microphone")` R-Weekly Highlights](https://rweekly.fireside.fm/)\
+[`r fontawesome::fa("twitch")` twitch.tv/rpodcast](https://twitch.tv/rpodcast)\
+[`r fontawesome::fa("video")` shinydevseries.com](https://shinydevseries.com)\
+[`r fontawesome::fa("newspaper")` rweekly.org](https://rweekly.org)
+:::
+
+::: footer
+Slides available at [rpodcast.github.io/shinysub_slides](https://rpodcast.github.io/shinysub_slides/)
+:::
+

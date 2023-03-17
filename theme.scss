@@ -20,3 +20,10 @@ $presentation-heading-font: "News Cycle", sans-serif !default;
 .centerheading h2 {
   text-align: center;
 }
+
+.reveal .footer > * {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-color: white;
+  display: inline;
+}

@@ -95,7 +95,7 @@
     "href": "index.html#technical-overview",
     "title": "The Journey to a Successful Shiny App Submission 🛰",
     "section": "Technical Overview",
-    "text": "Technical Overview\n\n\n\n\n\n\nApplication components created with Shiny Modules\nAssembled as an R package using {golem}\nPackage dependencies managed by {renv} ensuring reviewers can replicate R environment used to build application\nVersion control and collaborative development with Git and GitHub\nADRG specifying precise instructions to execute application on a local machine with R available\n\n\n\n\ngithub.com/RConsortium/submissions-pilot2"
+    "text": "Technical Overview\n\n\n\n\n\n\nApplication components created with Shiny Modules\nAssembled as an R package using {golem}\nPackage dependencies managed by {renv} ensuring reviewers can replicate R environment used to build application\nVersion control and collaborative development with Git and GitHub\nADRG specifying precise instructions to execute application on a local machine with R available - created with Quarto!\n\n\n\n\ngithub.com/RConsortium/submissions-pilot2"
   },
   {
     "objectID": "index.html#the-extra-virtual-mile",
@@ -124,5 +124,40 @@
     "title": "The Journey to a Successful Shiny App Submission 🛰",
     "section": "Next Slide",
     "text": "Next Slide"
+  },
+  {
+    "objectID": "index.html#liftoff",
+    "href": "index.html#liftoff",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "Liftoff!",
+    "text": "Liftoff!"
+  },
+  {
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "",
+    "text": "R-Consortium Blog Post"
+  },
+  {
+    "objectID": "index.html#the-next-wave-of-innovation",
+    "href": "index.html#the-next-wave-of-innovation",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "The Next Wave of Innovation",
+    "text": "The Next Wave of Innovation\nUpcoming Pilots for R Submissions Working Group\n\nUsing R programming to create ADaM data sets\nLeveraging state-of-the-art container technology for Shiny application distribution\nTo learn more and get involved, visit rconsortium.github.io/submissions-wg!"
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n\n\n\n\nGregory Chen\nHye Soo Chen\nRobert Devine\nNing Leng\nTadeusz Lewandowski\nEdgar Manukyan\nEli Miller\nJoseph Rickert\nPaul Schuette\nHeng Wang\nYilong Zhang"
+  },
+  {
+    "objectID": "index.html#thank-you",
+    "href": "index.html#thank-you",
+    "title": "The Journey to a Successful Shiny App Submission 🛰",
+    "section": "Thank You!",
+    "text": "Thank You!\n\n\n @rpodcast\n podcastindex.social/@rpodcast\n @theRcast\n R-Podcast\n R-Weekly Highlights\n twitch.tv/rpodcast\n shinydevseries.com\n rweekly.org\n\n\nSlides available at rpodcast.github.io/shinysub_slides"
   }
 ]
